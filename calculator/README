@@ -1,0 +1,6 @@
+This directory contains the header and source files 
+for the calculator from K&R Chapter 4 (see p. 82).
+
+Type "make" to compile
+Type "make clean" to delete all compiled code
+Type "./calc" to start the calculator
